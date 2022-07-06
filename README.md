@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bourdon94m
-- 👀 I’m interested in video games and coding
+- 👀 I’m interested in video games and programmation
 - 🌱 I’m currently learning Html/CSS. And after i would like learn javascript or python
 
 - 📫 You can contact me on discord : Bourdon94m#9242 
