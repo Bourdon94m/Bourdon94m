@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **nothing right now**
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+- 👨‍💻 All of my projects are available  [Soon](Soon)
 
 - 💬 Ask me about **Tech**
 
