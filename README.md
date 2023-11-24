@@ -4,21 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bourdon94m&label=Profile%20views&color=0e75b6&style=flat" alt="bourdon94m" /> </p>
 
 
-- 🔭 I’m currently working on **Basic python code**
+- 🔭 I’m currently working on **Django Project**
 
-- 🌱 I’m currently learning **Python, Django and Front End dev**
+- 🌱 I’m currently learning **Python, Django**
 
 - 👯 I’m looking to collaborate on **nothing right now**
-
-- 👨‍💻 All of my projects are available  [Soon](Soon)
 
 - 💬 Ask me about **Tech**
 
 - 📫 How to reach me **Bourdon94m@gmail.com**
 
-- 📄 Know about my experiences [Im currently 18 years old. And learning in IT school](Im currently 18 years old. And learning in IT school)
+- 📄 Know about my experiences (Im currently 18 years old. And learning in IT school)
 
-- ⚡ Fun fact **I love MR.Robot, cybersecurity and python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
