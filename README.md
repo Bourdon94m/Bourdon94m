@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bourdon94m&label=Profile%20views&color=0e75b6&style=flat" alt="bourdon94m" /> </p>
 
 
-- 🔭 I’m currently working on **Django Project**
+- 🔭 I’m currently working on **making a Blog with Django**
 
 - 🌱 I’m currently learning **Python, Django**
 
