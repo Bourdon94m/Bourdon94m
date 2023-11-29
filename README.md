@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **making a Blog with Django**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Python, Django, JS**
 
 - 👯 I’m looking to collaborate on **nothing right now**
 
-- 💬 Ask me about **Tech**
+- 💬 Ask me about **Dev, AI, script, web**
 
 - 📫 How to reach me **Bourdon94m@gmail.com**
 
