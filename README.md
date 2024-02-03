@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bourdon</h1>
-<h3 align="center">Im a web developper, i like tech, cybersec and software developpement</h3>
+<h3 align="center">Im a web developper, i like tech, cybersec and software developpement.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bourdon94m&label=Profile%20views&color=0e75b6&style=flat" alt="bourdon94m" /> </p>
 
