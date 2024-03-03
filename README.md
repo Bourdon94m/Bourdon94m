@@ -31,8 +31,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Bourdon/Bourdon/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="left">Hello World!!</h2>
