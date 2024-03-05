@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Bourdon and I'm a Python dev</h1>
+<h1 align="left">Hi 👋! My name is Bourdon and I'm a Python Django dev</h1>
 
 ###
 
