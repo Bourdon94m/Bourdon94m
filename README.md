@@ -18,4 +18,4 @@ Skills
 
 Contact
 bourdon94m@gmail.com
-[@martonlederer](./) on Discord
+[@Bourdon94m](./) on Discord
