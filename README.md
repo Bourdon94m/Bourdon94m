@@ -5,8 +5,6 @@
 Hey! 👋
 I'm Matt, a 18 years old web developer from France.
 
-🦔 Founder of ArConnect Arweave Wallet
-
 👨‍💻 Young student in IT
 
 
