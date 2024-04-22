@@ -3,7 +3,7 @@
 </h1>
 
 Hey! 👋
-I'm Matt, a 20 years old web developer from France.
+I'm Matt, a 18 years old web developer from France.
 
 🦔 Founder of ArConnect Arweave Wallet
 
