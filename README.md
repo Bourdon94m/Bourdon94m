@@ -12,10 +12,14 @@ I'm Matt, a 18 years old web developer from France.
 
 Skills
 👨‍💻 Python, C#, JS, php
+<br>
 ⚙️ Django, Bootstrap, TailwindCSS
+<br>
 💽 MySQL, SQL
-
+<br>
 
 Contact
+<br>
 bourdon94m@gmail.com
+<br>
 [@Bourdon94m](./) on Discord
