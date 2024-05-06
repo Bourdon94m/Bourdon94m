@@ -9,9 +9,9 @@ I'm Matt, a 18 years old web developer, software from France.
 
 
 Skills
-👨‍💻 Python, C#, JS, php
+👨‍💻 Python, C# currently learning, JS vanilla, php
 <br>
-⚙️ Django, Bootstrap, TailwindCSS
+⚙️ Django REST, Bootstrap, TailwindCSS
 <br>
 💽 MySQL, SQL
 <br>
