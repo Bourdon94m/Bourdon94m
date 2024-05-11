@@ -9,11 +9,11 @@ I'm Matt, a 18 years old web developer, software from France.
 
 
 Skills
-👨‍💻 Python, C# currently learning, JS vanilla, php
+👨‍💻 Python, C# currently learning, JS vanilla
 <br>
 ⚙️ Django REST, Bootstrap, TailwindCSS
 <br>
-💽 MySQL, SQL
+💽 Sql, Sqlite, PostsgreSQL
 <br>
 
 Contact
