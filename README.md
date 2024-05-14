@@ -2,7 +2,7 @@
   <img src="https://github.com/Bourdon94m/Bourdon94m/blob/main/banner.gif" alt="Bourdon94m" />
 </h1>
 
-Hey!!! 👋
+Hey! 👋
 I'm Matt, a 18 years old web developer, software from France.
 
 👨‍💻 Young student in IT
