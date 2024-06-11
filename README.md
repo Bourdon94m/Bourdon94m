@@ -11,7 +11,7 @@ I'm Bourdon, a young web developer, software from France.
 Skills
 👨‍💻 Python, C# currently learning, JS vanilla
 <br>
-⚙️ Django REST, Bootstrap, TailwindCSS
+⚙️ Django REST, Flask, JS Vanilla, Bootstrap, TailwindCSS
 <br>
 💽 Sql, Sqlite, PostsgreSQL
 <br>
