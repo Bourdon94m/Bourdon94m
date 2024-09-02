@@ -12,7 +12,6 @@ Computer Science student, i love create 🎨 and learning new skills.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bourdon94m&theme=monokai&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bourdon94m&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
