@@ -21,5 +21,4 @@ Computer Science student, i love create 🎨 and learning new skills.
 
 [![](https://visitcount.itsvg.in/api?id=Bourdon94m&icon=2&color=4)](https://visitcount.itsvg.in)
 
-Last Update :
 
