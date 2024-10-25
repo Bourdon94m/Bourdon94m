@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Im a passionate tech student, i love create 🎨 and learning new skills.
+Software Developper passionate by technology.
 
 # 💻 Tech Stack:
 
