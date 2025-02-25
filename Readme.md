@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Software Developper 💻 passionate by technology.
+I'm just a tech 
 
 # 💻 Tech Stack:
 
