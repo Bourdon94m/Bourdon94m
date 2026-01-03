@@ -1,7 +1,7 @@
 # Nueve
 
 Curious mind.  
-I like to understand how systems really work — from memory to machine code.
+I like to understand how systems really work — from high to low level code.
 
 Mostly focused on low-level development and security research.  
 I build tools, read binaries, and take things apart until they make sense.
