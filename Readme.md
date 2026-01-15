@@ -1,7 +1,7 @@
 # Nueve
 
 Curious mind.  
-I like to understand how systems really work — from high to low level code.
+I like to understand how systems really work from high to low level code.
 
 Mostly focused on low-level development and security research.  
 I build tools, read binaries, and take things apart until they make sense.
@@ -10,9 +10,9 @@ I build tools, read binaries, and take things apart until they make sense.
 
 ### 🧠 Skills
 - Reverse engineering, debugging, disassembly  
-- Low-level programming (C / C++)  
-- Process memory analysis & pattern scanning  
-- Basic driver development  
+- Low-level programming (C / C++ / ASM)  
+- Basic driver development
+- Web development 
 - Algorithmic problem solving
 
 ---
@@ -25,4 +25,4 @@ C / C++ · C# · Python · Assembly (x86/x64)
 ### Philosophy
 Learn deeply.  
 Question everything.  
-Don’t talk about it — build it.
+
